@@ -1,0 +1,112 @@
+HTTP/1.1 200 OK
+Server: Cowboy
+Connection: keep-alive
+X-Frame-Options: SAMEORIGIN
+!X-Xss-Protection: 1; mode=block
+!X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+)X-Permitted-Cross-Domain-Policies: none
+2Referrer-Policy: strict-origin-when-cross-origin
+%Date: Fri, 21 Jan 2022 17:57:41 GMT
+/Content-Type: application/json; charset=utf-8
+Vary: Accept, Origin
+&Cache-Control: max-age=86400, public
+,Etag: W/"4e2a0265c7072acff3e0d49c299000f0"
+4X-Request-Id: 9983b25f-4d3e-4cd3-b8ff-814d321e5cf1
+X-Runtime: 0.045966
+@Strict-Transport-Security: max-age=63072000; includeSubDomains
+Transfer-Encoding: chunked
+Via: 1.1 vegur
+
+[
+    {
+.        "id": "lagunitas-brewing-co-chicago",
+'        "name": "Lagunitas Brewing Co"
+    },
+    {
+/        "id": "lagunitas-brewing-co-petaluma",
+'        "name": "Lagunitas Brewing Co"
+    },
+    {
+F        "id": "lagunitas-seattle-taproom-and-beer-sanctuary-seattle",
+?        "name": "Lagunitas Seattle Taproom and Beer Sanctuary"
+    }
+]
+HTTP/1.1 200 OK
+Server: Cowboy
+Connection: keep-alive
+X-Frame-Options: SAMEORIGIN
+!X-Xss-Protection: 1; mode=block
+!X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+)X-Permitted-Cross-Domain-Policies: none
+2Referrer-Policy: strict-origin-when-cross-origin
+%Date: Fri, 21 Jan 2022 17:57:43 GMT
+/Content-Type: application/json; charset=utf-8
+Vary: Accept, Origin
+&Cache-Control: max-age=86400, public
+,Etag: W/"a0c744aba7c9b35210c85fb8bcecea66"
+4X-Request-Id: 08d1ff8f-ef4b-4656-816c-f1ed203b235a
+X-Runtime: 0.019537
+@Strict-Transport-Security: max-age=63072000; includeSubDomains
+Transfer-Encoding: chunked
+Via: 1.1 vegur
+
+{
+*    "id": "lagunitas-brewing-co-chicago",
+$    "name": "Lagunitas Brewing Co",
+    "brewery_type": "large",
+     "street": "2607 W 17th St",
+    "address_2": null,
+    "address_3": null,
+    "city": "Chicago",
+    "state": "Illinois",
+    "county_province": null,
+!    "postal_code": "60608-1823",
+     "country": "United States",
+     "longitude": "-87.6932373",
+    "latitude": "41.8583603",
+    "phone": "7735222503",
+/    "website_url": "http://www.lagunitas.com",
+.    "updated_at": "2021-10-23T02:24:55.243Z",
+-    "created_at": "2021-10-23T02:24:55.243Z"
+}
+HTTP/1.1 200 OK
+Server: Cowboy
+Connection: keep-alive
+X-Frame-Options: SAMEORIGIN
+!X-Xss-Protection: 1; mode=block
+!X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+)X-Permitted-Cross-Domain-Policies: none
+2Referrer-Policy: strict-origin-when-cross-origin
+%Date: Fri, 21 Jan 2022 17:57:44 GMT
+/Content-Type: application/json; charset=utf-8
+Vary: Accept, Origin
+&Cache-Control: max-age=86400, public
+,Etag: W/"79eb8734cb6fd1aea71b03348be06dc2"
+4X-Request-Id: 33bf9ae2-df7f-414b-8b57-e97f1d6f11f5
+X-Runtime: 0.015149
+@Strict-Transport-Security: max-age=63072000; includeSubDomains
+Transfer-Encoding: chunked
+Via: 1.1 vegur
+
+{
++    "id": "lagunitas-brewing-co-petaluma",
+$    "name": "Lagunitas Brewing Co",
+    "brewery_type": "large",
+&    "street": "1280 N McDowell Blvd",
+    "address_2": null,
+    "address_3": null,
+    "city": "Petaluma",
+    "state": "California",
+    "county_province": null,
+!    "postal_code": "94954-1113",
+     "country": "United States",
+!    "longitude": "-122.6619198",
+    "latitude": "38.27264795",
+    "phone": "7077694495",
+/    "website_url": "http://www.lagunitas.com",
+.    "updated_at": "2021-10-23T02:24:55.243Z",
+-    "created_at": "2021-10-23T02:24:55.243Z"
+}
